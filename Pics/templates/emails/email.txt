@@ -1,0 +1,2 @@
+Hello {{name}}
+Welcome To Instaclone, You have successfully joined the best social app where you can share your pics with friends.
