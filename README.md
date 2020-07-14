@@ -87,4 +87,4 @@ Download any text editor of your choice, either Sublime, Visual-Studio-Code or A
 tellvinchimani@gmail.com
 
 ### License
-<!-- [MIT LICENCE](https://github.com/Tellvinch/Instaclone/blob/master/License.md) -->
+[MIT LICENCE](https://github.com/Tellvinch/Instaclone/blob/master/License.md)
