@@ -5,11 +5,11 @@ Instaclone is a platform where users can upload  their photos and add caption to
 
 ### Requirements
 ##### These are the requirements you need to get the project running locally on your machine:
-  - Text Editor
-  - Install python
-  - Install and activate virtual
-  - Setup Database
-  - Install Django
+  - Text Editorr
+  - Install pythonn
+  - Install and activate virtuall
+  - Setup Databasee
+  - Install Django0
 
 
 ### Installation Process
